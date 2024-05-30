@@ -1,3 +1,3 @@
 # Netflix-Clone
 <br>
-This is Clone of only UI(home page) using HTML & CSS.
+This is Clone of UI(home page) only using HTML & CSS.
